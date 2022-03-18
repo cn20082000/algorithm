@@ -1,6 +1,8 @@
 ## Contest 1 - Thuật toán sinh kế tiếp
 - Question 1: Xâu nhị phân kế tiếp
-    + C# - 18/2/2022
+    + C# - 18/3/2022
+    + Java - 18/3/2022
+    + Kotlin - 18/3/2022
 - Question 2: Tập con kế tiếp
 - Question 3: Hoán vị kế tiếp
 - Question 4: Xâu AB có độ dài N
