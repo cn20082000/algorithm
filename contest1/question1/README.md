@@ -4,7 +4,7 @@
 - Input:
     + Dòng đầu tiên đưa vào số lượng test T.
     + Những dòng kế tiếp đưa vào các bộ test. Mỗi bộ test là một xâu nhị phân X.
-    + T, X[] thỏa mãn ràng buộc: 1 <= T <= 100; 1 <= length(X) <= 10^3.
+    + T, X[] thỏa mãn ràng buộc: 1 ≤ T ≤ 100; 1 ≤ length(X) ≤ 10<sup>3</sup>.
 - Output:
     + Đưa ra kết quả mỗi test theo từng dòng.
 
