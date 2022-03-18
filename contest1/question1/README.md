@@ -8,7 +8,6 @@
 - Output:
     + Đưa ra kết quả mỗi test theo từng dòng.
 
-<link href="../../utils/style.css" rel="stylesheet"></link>
 <table>
     <tr>
         <th>Input</th>
