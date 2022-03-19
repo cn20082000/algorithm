@@ -3,6 +3,7 @@
     + C# - 18/3/2022
     + Java - 18/3/2022
     + Kotlin - 18/3/2022
+    + Python - 19/3/2022
 - Question 2: Tập con kế tiếp
     + Java - 19/3/2022
 - Question 3: Hoán vị kế tiếp
